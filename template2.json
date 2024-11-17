@@ -1,0 +1,19 @@
+{
+  "Actor": {
+    "types": [
+      "Trainer", 
+      "Pokémon"
+    ]
+  },
+  "Item": {
+    "types": [
+      "Feature", 
+      "Edge", 
+      "Item", 
+      "Extra", 
+      "Move", 
+      "Pokeedge",
+      "Hability"
+  ]
+  }
+}

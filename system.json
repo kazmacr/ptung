@@ -4,12 +4,8 @@
   "description": "The Pokemon NeoGenesis system for FoundryVTT!",
   "authors": [
     {
-      "name": "Asacolips",
-      "discord": "asacolips"
-    },
-    {
-      "name": "Lee Talman",
-      "discord": ".pizzaWizard"
+      "name": "King Kazma",
+      "discord": "kazmacrc"
     }
   ],
   "url": "Replace this with a link to your public repository",
@@ -20,11 +16,11 @@
   "media": [
     {
       "type": "setup",
-      "url": "systems/ptung/assets/anvil-impact.png",
-      "thumbnail": "systems/ptung/assets/anvil-impact.png"
+      "url": "systems/ptung/assets/pokeball.png",
+      "thumbnail": "systems/ptung/assets/pokeball.png"
     }
   ],
-  "version": "2.0.0",
+  "version": "0.0.1",
   "compatibility": {
     "minimum": 11,
     "verified": "11.315"
@@ -43,9 +39,9 @@
   "socket": false,
   "manifest": "Replace this with a link to the /latest release system.json so people can receive updates after they've installed the system",
   "download": "This must link to a .zip file of the current version",
-  "background": "systems/ptung/assets/anvil-impact.png",
+  "background": "systems/ptung/assets/pokeball.png",
   "gridDistance": 5,
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
-  "secondaryTokenAttribute": "power"
+  "secondaryTokenAttribute": "ap"
 }
